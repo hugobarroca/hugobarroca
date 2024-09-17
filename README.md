@@ -3,11 +3,11 @@
 
 - 💬 Ask me about **.NET, C#, Cybersec**
 
-- 📫 How to reach me **hugobarroca98@gmail.com**
+- 📫 Reach me @ **hugobarroca98@gmail.com**
 
-<br />
+- 🎮 Also interested in Game Dev, Emulators, and other stuff!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugobarroca&theme=dark" alt="hugobarroca" /></p>
+- 🦖 Can name over 40 dinosaurs off the top of my head
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
